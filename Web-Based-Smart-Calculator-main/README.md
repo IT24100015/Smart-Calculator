@@ -60,6 +60,8 @@ git clone https: https://github.com/kasuni-17/Smart-Calculator.git
 ```
 cd Calculator
 ```
+or
+vs code -----> open with live server
 
 - Run `index.html` in any web browser
 
